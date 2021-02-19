@@ -1,5 +1,5 @@
 const btnScrollTo = document.querySelector('.btn__scroll-to');
-const section1 = document.querySelector('.features');
+const section1 = document.querySelector('.designs');
 
 btnScrollTo.addEventListener('click', function (e) {
   const s1coords = section1.getBoundingClientRect();
